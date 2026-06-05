@@ -10,6 +10,9 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
 ## 🌐 Cisco Packet Tracer Projects
 - **[Multi-VLAN Apartments Network Lab](https://github.com/kingednan/cisco-inter-vlan-lab)**
 
+# ☁️Active Directory Projects – Azure 
+- **[Active Directory Home Lab](https://github.com/kingednan/active-directory-lab)**
+
 <hr/>
 
 ## 🤳 Connect With Me
