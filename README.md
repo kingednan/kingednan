@@ -6,6 +6,8 @@ I’m passionate about cybersecurity and love tackling complex challenges throug
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/kingednan/ednan-vulnerability-management-project)**
+
+## 🌐 Cisco Packet Tracer Projects
 - **[Multi-VLAN Apartments Network Lab](https://github.com/kingednan/cisco-inter-vlan-lab)**
 
 <hr/>
