@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/ednanking/">Ednan King</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m passionate about cybersecurity and love tackling complex challenges through hands-on projects. Whether it’s vulnerability management or threat detection, these projects allow me to dive deeper into the ever-evolving cybersecurity landscape. Feel free to explore them and see the work I’ve done to help strengthen and improve security operations.
+I’m passionate about cybersecurity and networking, and I enjoy tackling complex challenges through hands-on labs and real-world projects. From network design and troubleshooting to vulnerability management and threat detection, these experiences allow me to deepen my technical skills and stay engaged with the constantly evolving technology and security landscape. Feel free to explore my projects and labs to see how I’ve applied practical solutions to strengthen networks, improve security operations, and enhance overall system resilience.
 
 
 ## ⚠️ Vulnerability Management Projects
