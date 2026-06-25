@@ -10,10 +10,20 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
 ## 🌐 Cisco Packet Tracer Projects
 - **[Multi-VLAN Apartments Network Lab](https://github.com/kingednan/cisco-inter-vlan-lab)**
 
-# ☁️Active Directory Projects – Azure 
+# ☁️Active Directory Projects 
 - **[Active Directory Home Lab](https://github.com/kingednan/active-directory-lab)**
 
-<hr/>
+# ☁️Azure Labs 
+
+- <b>Microsoft Azure Entra ID</b>
+  - [Creating User's in Entra ID]()
+  - [Cloud Provisioning - P2 Licensing]()
+  - [Role Assignments]()
+  - [Group Assignments]()
+  - [Identity Lifecycle]()
+  - [Audit Logs]()
+  - [Sign-In Logs]()
+  - [Authentication]() 
 
 ## 🤳 Connect With Me
 
