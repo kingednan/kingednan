@@ -17,7 +17,7 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
 
 - <b>Microsoft Azure Entra ID</b>
   - [Creating User's in Entra ID](https://github.com/kingednan/azure-user-accounts)
-  - [Cloud Provisioning - P2 Licensing]()
+  - [Cloud Provisioning - P2 Licensing](https://github.com/kingednan/azure-P2-licensing)
   - [Role Assignments]()
   - [Group Assignments]()
   - [Identity Lifecycle]()
