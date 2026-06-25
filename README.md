@@ -16,7 +16,7 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
 # ☁️Azure Labs 
 
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID]()
+  - [Creating User's in Entra ID](https://github.com/kingednan/azure-user-accounts)
   - [Cloud Provisioning - P2 Licensing]()
   - [Role Assignments]()
   - [Group Assignments]()
