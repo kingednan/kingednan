@@ -19,7 +19,7 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
   - [Creating User's in Entra ID](https://github.com/kingednan/azure-user-accounts)
   - [Cloud Provisioning - P2 Licensing](https://github.com/kingednan/azure-P2-licensing)
   - [Role Assignments](https://github.com/kingednan/azure-role-assigning)
-  - [Group Assignments]()
+  - [Group Assignments](https://github.com/kingednan/azure-group-assigning)
   - [Identity Lifecycle]()
   - [Audit Logs]()
   - [Sign-In Logs]()
