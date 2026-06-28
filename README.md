@@ -22,7 +22,7 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
   - [Group Assignments](https://github.com/kingednan/azure-group-assigning)
   - [Identity Lifecycle](https://github.com/kingednan/azure-identify-lifescyle)
   - [Audit Logs](https://github.com/kingednan/azure-audit-logs)
-  - [Sign-In Logs]()
+  - [Sign-In Logs](https://github.com/kingednan/azure-sign-in-logs)
   - [Authentication]() 
 
 ## 🤳 Connect With Me
