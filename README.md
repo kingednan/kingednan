@@ -20,7 +20,7 @@ I’m passionate about cybersecurity and networking, and I enjoy tackling comple
   - [Cloud Provisioning - P2 Licensing](https://github.com/kingednan/azure-P2-licensing)
   - [Role Assignments](https://github.com/kingednan/azure-role-assigning)
   - [Group Assignments](https://github.com/kingednan/azure-group-assigning)
-  - [Identity Lifecycle]()
+  - [Identity Lifecycle](https://github.com/kingednan/azure-identify-lifescyle)
   - [Audit Logs]()
   - [Sign-In Logs]()
   - [Authentication]() 
